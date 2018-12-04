@@ -5,6 +5,8 @@
 ![CRAN Downloads overall](http://cranlogs.r-pkg.org/badges/grand-total/ranger?color=brightgreen)
 ## ranger: A Fast Implementation of Random Forests
 Marvin N. Wright
+[![Code Quality: Cpp](https://img.shields.io/lgtm/grade/cpp/g/imbs-hl/ranger.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/imbs-hl/ranger/context:cpp)
+[![Total Alerts](https://img.shields.io/lgtm/alerts/g/imbs-hl/ranger.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/imbs-hl/ranger/alerts)
 
 ### Introduction
 ranger is a fast implementation of random forests (Breiman 2001) or recursive partitioning, particularly suited for high dimensional data. Classification, regression, and survival forests are supported. Classification and regression forests are implemented as in the original Random Forest (Breiman 2001), survival forests as in Random Survival Forests (Ishwaran et al. 2008). Includes implementations of extremely randomized trees (Geurts et al. 2006) and quantile regression forests (Meinshausen 2006).
